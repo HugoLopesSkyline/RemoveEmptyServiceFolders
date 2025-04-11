@@ -19,9 +19,7 @@
 	<Script>
 		<Exe id="1" type="csharp">
 			<Value><![CDATA[[Project:RemoveEmptyServiceFolders]]]></Value>
-			<!--<Param type="debug">true</Param>-->
-			<Param type="preCompile">true</Param>
-			<Param type="libraryName">RemoveEmptyServiceFolders</Param>
+			<!--<Param type="debug">true</Param>-->			
 		</Exe>
 	</Script>
 </DMSScript>
